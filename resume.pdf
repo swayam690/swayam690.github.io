@@ -1,136 +1,887 @@
 %PDF-1.4
-%“Œ‹ž ReportLab Generated PDF document (opensource)
+%âãÏÓ
 1 0 obj
 <<
-/F1 2 0 R /F2 3 0 R /F3 10 0 R
+/Producer (pypdf)
 >>
 endobj
 2 0 obj
 <<
-/BaseFont /Helvetica /Encoding /WinAnsiEncoding /Name /F1 /Subtype /Type1 /Type /Font
+/Type /Pages
+/Count 1
+/Kids [ 4 0 R ]
 >>
 endobj
 3 0 obj
 <<
-/BaseFont /Helvetica-Bold /Encoding /WinAnsiEncoding /Name /F2 /Subtype /Type1 /Type /Font
+/Type /Catalog
+/Pages 2 0 R
 >>
 endobj
 4 0 obj
 <<
-/A <<
-/S /URI /Type /Action /URI (mailto:swayam10138@gmail.com)
->> /Border [ 0 0 0 ] /Rect [ 279.267 746.4594 380.2182 756.5394 ] /Subtype /Link /Type /Annot
+/Annots [ 5 0 R 6 0 R 7 0 R 8 0 R 9 0 R 10 0 R 11 0 R ]
+/Contents 12 0 R
+/MediaBox [ 0 0 595.2756 841.8898 ]
+/Resources <<
+/Font 13 0 R
+/ProcSet [ /PDF /Text /ImageB /ImageC /ImageI ]
+>>
+/Rotate 0
+/Trans <<
+>>
+/Type /Page
+/Parent 2 0 R
 >>
 endobj
 5 0 obj
 <<
 /A <<
-/S /URI /Type /Action /URI (https://github.com/swayam690)
->> /Border [ 0 0 0 ] /Rect [ 396.4134 746.4594 422.5542 756.5394 ] /Subtype /Link /Type /Annot
+/S /URI
+/Type /Action
+/URI (mailto\072swayam10138\100gmail\056com)
+>>
+/Border [ 0 0 0 ]
+/Rect [ 238.359 746.4594 339.3102 756.5394 ]
+/Subtype /Link
+/Type /Annot
 >>
 endobj
 6 0 obj
 <<
 /A <<
-/S /URI /Type /Action /URI (https://leetcode.com/u/bfcCpyaabO/)
->> /Border [ 0 0 0 ] /Rect [ 438.7494 746.4594 475.1718 756.5394 ] /Subtype /Link /Type /Annot
+/S /URI
+/Type /Action
+/URI (https\072\057\057github\056com\057swayam690)
+>>
+/Border [ 0 0 0 ]
+/Rect [ 355.5054 746.4594 381.6462 756.5394 ]
+/Subtype /Link
+/Type /Annot
 >>
 endobj
 7 0 obj
 <<
 /A <<
-/S /URI /Type /Action /URI (https://github.com/swayam690/redisbasedchatbot)
->> /Border [ 0 0 0 ] /Rect [ 170.4319 578.1594 246.0908 588.8394 ] /Subtype /Link /Type /Annot
+/S /URI
+/Type /Action
+/URI (https\072\057\057leetcode\056com\057u\057bfcCpyaabO\057)
+>>
+/Border [ 0 0 0 ]
+/Rect [ 397.8414 746.4594 434.2638 756.5394 ]
+/Subtype /Link
+/Type /Annot
 >>
 endobj
 8 0 obj
 <<
 /A <<
-/S /URI /Type /Action /URI (https://github.com/swayam690/formatlab-ai-marketing)
->> /Border [ 0 0 0 ] /Rect [ 195.6456 544.3594 271.3045 555.0394 ] /Subtype /Link /Type /Annot
+/S /URI
+/Type /Action
+/URI (https\072\057\057github\056com\057swayam690\057redisbasedchatbot)
+>>
+/Border [ 0 0 0 ]
+/Rect [ 170.4319 578.1594 246.0908 588.8394 ]
+/Subtype /Link
+/Type /Annot
 >>
 endobj
 9 0 obj
 <<
 /A <<
-/S /URI /Type /Action /URI (https://github.com/swayam690/deepfake)
->> /Border [ 0 0 0 ] /Rect [ 178.3529 499.9594 254.0118 510.6394 ] /Subtype /Link /Type /Annot
+/S /URI
+/Type /Action
+/URI (https\072\057\057github\056com\057swayam690\057formatlab\055ai\055marketing)
+>>
+/Border [ 0 0 0 ]
+/Rect [ 195.6456 544.3594 271.3045 555.0394 ]
+/Subtype /Link
+/Type /Annot
 >>
 endobj
 10 0 obj
 <<
-/BaseFont /Helvetica-Oblique /Encoding /WinAnsiEncoding /Name /F3 /Subtype /Type1 /Type /Font
+/A <<
+/S /URI
+/Type /Action
+/URI (https\072\057\057github\056com\057swayam690\057deepfake)
+>>
+/Border [ 0 0 0 ]
+/Rect [ 178.3529 499.9594 254.0118 510.6394 ]
+/Subtype /Link
+/Type /Annot
 >>
 endobj
 11 0 obj
 <<
 /A <<
-/S /URI /Type /Action /URI (https://doi.org/10.1007/978-3-032-25949-3_1)
->> /Border [ 0 0 0 ] /Rect [ 245.9808 421.4194 355.8492 431.1394 ] /Subtype /Link /Type /Annot
+/S /URI
+/Type /Action
+/URI (https\072\057\057doi\056org\05710\0561007\057978\0553\055032\05525949\0553\1371)
+>>
+/Border [ 0 0 0 ]
+/Rect [ 245.9808 421.4194 355.8492 431.1394 ]
+/Subtype /Link
+/Type /Annot
 >>
 endobj
 12 0 obj
 <<
-/Annots [ 4 0 R 5 0 R 6 0 R 7 0 R 8 0 R 9 0 R 11 0 R ] /Contents 16 0 R /MediaBox [ 0 0 595.2756 841.8898 ] /Parent 15 0 R /Resources <<
-/Font 1 0 R /ProcSet [ /PDF /Text /ImageB /ImageC /ImageI ]
->> /Rotate 0 
-  /Trans <<
-
->> /Type /Page
+/Length 9141
 >>
+stream
+1 0 0 1 0 0 cm
+BT
+/F1 12 Tf
+14.4 TL
+ET
+q
+0.32549 0.419608 0.207843 RG
+2 w
+n
+48.18898 819.2126 m
+547.0866 819.2126 l
+S
+Q
+q
+1 0 0 1 54.18898 776.0394 cm
+q
+0.109804 0.129412 0.094118 rg
+BT
+1 0 0 1 0 2 Tm
+/F2 21 Tf
+23 TL
+162.3363 0 Td
+(Swayam Gandhi) Tj
+T*
+-162.3363 0 Td
+ET
+Q
+Q
+q
+1 0 0 1 54.18898 761.5394 cm
+q
+BT
+1 0 0 1 0 2 Tm
+94.93057 0 Td
+11.5 TL
+/F1 9.5 Tf
+0.32549 0.419608 0.207843 rg
+(AI\057ML ENGINEERING STUDENT \174 BACKEND \046 LLM APPLICATIONS) Tj
+T*
+-94.93057 0 Td
+ET
+Q
+Q
+q
+1 0 0 1 54.18898 746.3394 cm
+q
+BT
+1 0 0 1 0 1.8 Tm
+106.82282 0 Td
+10.2 TL
+/F1 8.4 Tf
+0.337255 0.356863 0.329412 rg
+(New Delhi\054 India   \174   ) Tj
+0.32549 0.419608 0.207843 rg
+(swayam10138\100gmail\056com) Tj
+0.337255 0.356863 0.329412 rg
+(   \174   ) Tj
+0.32549 0.419608 0.207843 rg
+(GitHub) Tj
+0.337255 0.356863 0.329412 rg
+(   \174   ) Tj
+0.32549 0.419608 0.207843 rg
+(LeetCode) Tj
+T*
+-65.91482 0 Td
+ET
+Q
+Q
+q
+1 0 0 1 54.18898 715.1394 cm
+q
+0.109804 0.129412 0.094118 rg
+BT
+1 0 0 1 0 14.2 Tm
+/F1 9 Tf
+11.6 TL
+(AI\057ML engineering student focused on backend systems and LLM applications\056 Built Python services\054 real\055time chat) Tj
+T*
+(systems\054 and applied AI projects\073 co\055authored a Springer Nature conference paper\056) Tj
+T*
+ET
+Q
+Q
+q
+1 0 0 1 54.18898 698.6394 cm
+q
+0.32549 0.419608 0.207843 rg
+BT
+1 0 0 1 0 1.7 Tm
+/F2 9.8 Tf
+11.5 TL
+(EDUCATION) Tj
+T*
+ET
+Q
+Q
+q
+1 0 0 1 54.18898 695.0394 cm
+q
+0.6 w
+1 J
+0.843137 0.866667 0.815686 RG
+n
+0 0 m
+486.8976 0 l
+S
+Q
+Q
+q
+1 0 0 1 54.18898 669.8394 cm
+q
+0 0 0 rg
+BT
+/F1 10 Tf
+12 TL
+ET
+q
+1 0 0 1 0 0 cm
+q
+0.109804 0.129412 0.094118 rg
+BT
+1 0 0 1 0 12.3 Tm
+/F2 8.9 Tf
+10.6 TL
+(BTech\054 Artificial Intelligence and Machine Learning \174 Vivekananda Institute of Professional) Tj
+T*
+(Studies\054 New Delhi) Tj
+T*
+ET
+Q
+Q
+q
+1 0 0 1 406.8976 11 cm
+q
+0.337255 0.356863 0.329412 rg
+BT
+1 0 0 1 0 1.9 Tm
+/F1 8.3 Tf
+10.2 TL
+12.6437 0 Td
+(Aug 2023 \055 May 2027) Tj
+T*
+-12.6437 0 Td
+ET
+Q
+Q
+q
+Q
+Q
+Q
+q
+1 0 0 1 54.18898 653.3394 cm
+q
+0.32549 0.419608 0.207843 rg
+BT
+1 0 0 1 0 1.7 Tm
+/F2 9.8 Tf
+11.5 TL
+(EXPERIENCE) Tj
+T*
+ET
+Q
+Q
+q
+1 0 0 1 54.18898 649.7394 cm
+q
+0.6 w
+1 J
+0.843137 0.866667 0.815686 RG
+n
+0 0 m
+486.8976 0 l
+S
+Q
+Q
+q
+1 0 0 1 54.18898 635.1394 cm
+q
+0 0 0 rg
+BT
+/F1 10 Tf
+12 TL
+ET
+q
+1 0 0 1 0 0 cm
+q
+0.109804 0.129412 0.094118 rg
+BT
+1 0 0 1 0 1.7 Tm
+/F2 8.9 Tf
+10.6 TL
+(Python Developer Intern \174 IFSO\054 Delhi Police \055 National Cyber Forensics Laboratory\054 New Delhi) Tj
+T*
+ET
+Q
+Q
+q
+1 0 0 1 406.8976 0.4 cm
+q
+0.337255 0.356863 0.329412 rg
+BT
+1 0 0 1 0 1.9 Tm
+/F1 8.3 Tf
+10.2 TL
+56.4677 0 Td
+(Aug 2025) Tj
+T*
+-56.4677 0 Td
+ET
+Q
+Q
+q
+Q
+Q
+Q
+q
+1 0 0 1 54.18898 624.6394 cm
+q
+0.109804 0.129412 0.094118 rg
+BT
+1 0 0 1 9 2 Tm
+/F1 8.5 Tf
+10.5 TL
+-6 0 Td
+(\055 Developed a Python GUI tool to automate repetitive code\055generation workflows and improve developer productivity\056) Tj
+T*
+6 0 Td
+ET
+Q
+Q
+q
+1 0 0 1 54.18898 612.9394 cm
+q
+0.109804 0.129412 0.094118 rg
+BT
+1 0 0 1 9 2 Tm
+/F1 8.5 Tf
+10.5 TL
+-6 0 Td
+(\055 Implemented event\055driven execution and real\055time script monitoring for debugging and visualization\056) Tj
+T*
+6 0 Td
+ET
+Q
+Q
+q
+1 0 0 1 54.18898 596.4394 cm
+q
+0.32549 0.419608 0.207843 rg
+BT
+1 0 0 1 0 1.7 Tm
+/F2 9.8 Tf
+11.5 TL
+(SELECTED PROJECTS) Tj
+T*
+ET
+Q
+Q
+q
+1 0 0 1 54.18898 592.8394 cm
+q
+0.6 w
+1 J
+0.843137 0.866667 0.815686 RG
+n
+0 0 m
+486.8976 0 l
+S
+Q
+Q
+q
+1 0 0 1 54.18898 578.2394 cm
+q
+0 0 0 rg
+BT
+/F1 10 Tf
+12 TL
+ET
+q
+1 0 0 1 0 0 cm
+q
+BT
+1 0 0 1 0 1.7 Tm
+10.6 TL
+/F2 8.9 Tf
+0.109804 0.129412 0.094118 rg
+(Enterprise Chat Assistant \174 ) Tj
+0.32549 0.419608 0.207843 rg
+(Source on GitHub) Tj
+0.109804 0.129412 0.094118 rg
+( \174 FastAPI\054 Redis\054 WebSockets\054 React) Tj
+T*
+ET
+Q
+Q
+q
+1 0 0 1 406.8976 0.4 cm
+q
+0.337255 0.356863 0.329412 rg
+BT
+1 0 0 1 0 1.9 Tm
+/F1 8.3 Tf
+10.2 TL
+60.626 0 Td
+(Jul 2026) Tj
+T*
+-60.626 0 Td
+ET
+Q
+Q
+q
+Q
+Q
+Q
+q
+1 0 0 1 54.18898 556.6394 cm
+q
+0.109804 0.129412 0.094118 rg
+BT
+1 0 0 1 0 13 Tm
+/F1 8.6 Tf
+10.8 TL
+(Built a full\055stack customer\055service chatbot with a FastAPI backend and React interface\056 Added WebSocket chat\054 Redis\055backed) Tj
+T*
+(session state and caching\054 and pub\057sub signals for live\055agent escalation\056) Tj
+T*
+ET
+Q
+Q
+q
+1 0 0 1 54.18898 533.8394 cm
+q
+0 0 0 rg
+BT
+/F1 10 Tf
+12 TL
+ET
+q
+1 0 0 1 0 0 cm
+q
+BT
+1 0 0 1 0 12.3 Tm
+10.6 TL
+/F2 8.9 Tf
+0.109804 0.129412 0.094118 rg
+(FormatLab AI Marketing Engine \174 ) Tj
+0.32549 0.419608 0.207843 rg
+(Source on GitHub) Tj
+0.109804 0.129412 0.094118 rg
+( \174 Next\056js\054 TypeScript\054 Python\054 FFmpeg\054) Tj
+T*
+(Gemini) Tj
+T*
+ET
+Q
+Q
+q
+1 0 0 1 406.8976 11 cm
+q
+0.337255 0.356863 0.329412 rg
+BT
+1 0 0 1 0 1.9 Tm
+/F1 8.3 Tf
+10.2 TL
+57.8538 0 Td
+(Jan 2026) Tj
+T*
+-57.8538 0 Td
+ET
+Q
+Q
+q
+Q
+Q
+Q
+q
+1 0 0 1 54.18898 512.2394 cm
+q
+0.109804 0.129412 0.094118 rg
+BT
+1 0 0 1 0 13 Tm
+/F1 8.6 Tf
+10.8 TL
+(Prototyped an AI marketing workflow for solo founders\054 with a multi\055platform content interface\054 Python and FFmpeg) Tj
+T*
+(video\055processing core\054 and Gemini multimodal analysis\056) Tj
+T*
+ET
+Q
+Q
+q
+1 0 0 1 54.18898 500.0394 cm
+q
+0 0 0 rg
+BT
+/F1 10 Tf
+12 TL
+ET
+q
+1 0 0 1 0 0 cm
+q
+BT
+1 0 0 1 0 1.7 Tm
+10.6 TL
+/F2 8.9 Tf
+0.109804 0.129412 0.094118 rg
+(Deepfake Detection System \174 ) Tj
+0.32549 0.419608 0.207843 rg
+(Source on GitHub) Tj
+0.109804 0.129412 0.094118 rg
+( \174 Python\054 TensorFlow\054 Flask\054 React) Tj
+T*
+ET
+Q
+Q
+q
+1 0 0 1 406.8976 0.4 cm
+q
+0.337255 0.356863 0.329412 rg
+BT
+1 0 0 1 0 1.9 Tm
+/F1 8.3 Tf
+10.2 TL
+56.9408 0 Td
+(Mar 2025) Tj
+T*
+-56.9408 0 Td
+ET
+Q
+Q
+q
+Q
+Q
+Q
+q
+1 0 0 1 54.18898 478.4394 cm
+q
+0.109804 0.129412 0.094118 rg
+BT
+1 0 0 1 0 13 Tm
+/F1 8.6 Tf
+10.8 TL
+(Built an image\055detection app with a CNN classifier\054 Flask REST inference API\054 and React dashboard\056 Trained and evaluated) Tj
+T*
+(across 100\054000\053 images from FaceForensics\053\053 and Kaggle data\056) Tj
+T*
+ET
+Q
+Q
+q
+1 0 0 1 54.18898 461.9394 cm
+q
+0.32549 0.419608 0.207843 rg
+BT
+1 0 0 1 0 1.7 Tm
+/F2 9.8 Tf
+11.5 TL
+(PUBLICATION) Tj
+T*
+ET
+Q
+Q
+q
+1 0 0 1 54.18898 458.3394 cm
+q
+0.6 w
+1 J
+0.843137 0.866667 0.815686 RG
+n
+0 0 m
+486.8976 0 l
+S
+Q
+Q
+q
+1 0 0 1 54.18898 432.7394 cm
+q
+BT
+1 0 0 1 0 13 Tm
+10.8 TL
+/F1 8.6 Tf
+0.109804 0.129412 0.094118 rg
+(Singh\054 R\056\054 Aggarwal\054 K\056\054 Gandhi\054 S\056\054 Jain\054 N\056\054 and Bansal\054 M\056 \0502026\051\056 ) Tj
+/F3 8.6 Tf
+(DeepFake vs Real\072 A VGG16 Transfer Learning Approach) Tj
+T*
+(for Binary Classification of Facial Images\056) Tj
+/F1 8.6 Tf
+( Data Mining and Information Security \050ICDMIS 2025\051\054 Springer Nature\056) Tj
+T*
+ET
+Q
+Q
+q
+1 0 0 1 54.18898 421.3394 cm
+q
+BT
+1 0 0 1 0 1.7 Tm
+9.8 TL
+/F1 8.1 Tf
+0.337255 0.356863 0.329412 rg
+(Validation accuracy reported in the paper\072 84\045\056 DOI\072 ) Tj
+0.32549 0.419608 0.207843 rg
+(10\0561007\057978\0553\055032\05525949\0553\1371) Tj
+T*
+ET
+Q
+Q
+q
+1 0 0 1 54.18898 404.8394 cm
+q
+0.32549 0.419608 0.207843 rg
+BT
+1 0 0 1 0 1.7 Tm
+/F2 9.8 Tf
+11.5 TL
+(TRAINING) Tj
+T*
+ET
+Q
+Q
+q
+1 0 0 1 54.18898 401.2394 cm
+q
+0.6 w
+1 J
+0.843137 0.866667 0.815686 RG
+n
+0 0 m
+486.8976 0 l
+S
+Q
+Q
+q
+1 0 0 1 54.18898 386.6394 cm
+q
+0 0 0 rg
+BT
+/F1 10 Tf
+12 TL
+ET
+q
+1 0 0 1 0 0 cm
+q
+0.109804 0.129412 0.094118 rg
+BT
+1 0 0 1 0 1.7 Tm
+/F2 8.9 Tf
+10.6 TL
+(AI\057ML Training Program \174 Codec Technologies) Tj
+T*
+ET
+Q
+Q
+q
+1 0 0 1 406.8976 0.4 cm
+q
+0.337255 0.356863 0.329412 rg
+BT
+1 0 0 1 0 1.9 Tm
+/F1 8.3 Tf
+10.2 TL
+60.626 0 Td
+(Jul 2026) Tj
+T*
+-60.626 0 Td
+ET
+Q
+Q
+q
+Q
+Q
+Q
+q
+1 0 0 1 54.18898 365.0394 cm
+q
+0.109804 0.129412 0.094118 rg
+BT
+1 0 0 1 0 13 Tm
+/F1 8.6 Tf
+10.8 TL
+(Completed a four\055week program covering machine learning\054 neural networks\054 CNNs\054 NLP\054 and reinforcement learning\056 Built an) Tj
+T*
+(LLM chatbot using prompt engineering and retrieval workflows\056) Tj
+T*
+ET
+Q
+Q
+q
+1 0 0 1 54.18898 348.5394 cm
+q
+0.32549 0.419608 0.207843 rg
+BT
+1 0 0 1 0 1.7 Tm
+/F2 9.8 Tf
+11.5 TL
+(TECHNICAL SKILLS) Tj
+T*
+ET
+Q
+Q
+q
+1 0 0 1 54.18898 344.9394 cm
+q
+0.6 w
+1 J
+0.843137 0.866667 0.815686 RG
+n
+0 0 m
+486.8976 0 l
+S
+Q
+Q
+q
+1 0 0 1 54.18898 330.1394 cm
+q
+BT
+1 0 0 1 0 2.2 Tm
+10.8 TL
+/F2 8.6 Tf
+0.109804 0.129412 0.094118 rg
+(Programming\072) Tj
+/F1 8.6 Tf
+( Python\054 JavaScript\054 TypeScript\054 SQL) Tj
+T*
+ET
+Q
+Q
+q
+1 0 0 1 54.18898 317.7394 cm
+q
+BT
+1 0 0 1 0 2.2 Tm
+10.8 TL
+/F2 8.6 Tf
+0.109804 0.129412 0.094118 rg
+(Backend and APIs\072) Tj
+/F1 8.6 Tf
+( FastAPI\054 Flask\054 REST APIs\054 WebSockets\054 JWT authentication\054 asynchronous services) Tj
+T*
+ET
+Q
+Q
+q
+1 0 0 1 54.18898 305.3394 cm
+q
+BT
+1 0 0 1 0 2.2 Tm
+10.8 TL
+/F2 8.6 Tf
+0.109804 0.129412 0.094118 rg
+(Data and retrieval\072) Tj
+/F1 8.6 Tf
+( PostgreSQL\054 MySQL\054 Redis\054 FAISS\054 vector embeddings\054 semantic search) Tj
+T*
+ET
+Q
+Q
+q
+1 0 0 1 54.18898 282.1394 cm
+q
+BT
+1 0 0 1 0 13 Tm
+10.8 TL
+/F2 8.6 Tf
+0.109804 0.129412 0.094118 rg
+(AI\057ML and LLMs\072) Tj
+/F1 8.6 Tf
+( TensorFlow\054 CNNs\054 VGG16 transfer learning\054 Hugging Face Transformers\054 RAG\054 LangChain\054 OpenAI API\054) Tj
+T*
+(Gemini API\054 prompt engineering) Tj
+T*
+ET
+Q
+Q
+q
+1 0 0 1 54.18898 269.7394 cm
+q
+BT
+1 0 0 1 0 2.2 Tm
+10.8 TL
+/F2 8.6 Tf
+0.109804 0.129412 0.094118 rg
+(Frontend and tools\072) Tj
+/F1 8.6 Tf
+( React\054 Next\056js\054 Git\054 Linux\054 Postman\054 FFmpeg) Tj
+T*
+ET
+Q
+Q
+
+endstream
 endobj
 13 0 obj
 <<
-/PageMode /UseNone /Pages 15 0 R /Type /Catalog
+/F1 14 0 R
+/F2 15 0 R
+/F3 16 0 R
 >>
 endobj
 14 0 obj
 <<
-/Author (Swayam Gandhi) /CreationDate (D:20261025002037+05'00') /Creator (\(unspecified\)) /Keywords () /ModDate (D:20261025002037+05'00') /Producer (ReportLab PDF Library - \(opensource\)) 
-  /Subject (Resume) /Title (Swayam Gandhi - AI/ML and Backend Engineering) /Trapped /False
+/BaseFont /Helvetica
+/Encoding /WinAnsiEncoding
+/Name /F1
+/Subtype /Type1
+/Type /Font
 >>
 endobj
 15 0 obj
 <<
-/Count 1 /Kids [ 12 0 R ] /Type /Pages
+/BaseFont /Helvetica-Bold
+/Encoding /WinAnsiEncoding
+/Name /F2
+/Subtype /Type1
+/Type /Font
 >>
 endobj
 16 0 obj
 <<
-/Filter [ /ASCII85Decode /FlateDecode ] /Length 3011
+/BaseFont /Helvetica-Oblique
+/Encoding /WinAnsiEncoding
+/Name /F3
+/Subtype /Type1
+/Type /Font
 >>
-stream
-Gb!;e>BALj&q9SYka1+G2B_=GP^Q\nJ`'qq=<qN$;RJAQK2AWWB/Hp3<dsu?N%PCVfJk$%[?ZWcQ5K;Vl`\'@1f3_7-@bju_"etq7N,r$ba4ujM@&l'%-K!fSg]>2R4]nbk1Zg;MQZXmdt!qXM%98-.@?-i3KEEUUUc8bkr'epR6<u]CjZ&g(qc%CGa_Yrf.sC&om4'@)QnotLkf]El_l-YRdQVXN2#<ijo>cbcpFih)U1t&?la>`(p"[n>g:h7_lsT_4qHT$]-eP\^mLq6.XD9i0/3D2FE_Xi%mTEcbLRB.Z0V:B];FR+WmrWGdI:aVJr$*NhC`54gfOi[rQ3_-7X$b^b_F$)a_VCBr8Yb82MZ3ihB0BLc7\&D0V)N9s8%%&)>**UpG9!m@JA/F\7"%SlD#tFMBeXq/]H768$AFZ'tne-&I8qC(d6]\nC=fb$lV/Qo-1i7d<iBrnLEh>,Rkq!JE?sHFtj-.h(uiG:"?9C.ZJp%,e6U7VJ:kWY:q+sXS>prI;$A%#9H'hptK7tXOF&2nj+&<-6KisHm0Z$V._N:3Yl4ZG)WK':/.u^ROT0%1lP=)=d4Z&o-0hVLLoTa3=R*(@6sfqRKejlE__f<YSndmaEejs52fA)jpIUp;9\!F_cQVqS?fcJVg/La-#o8A#mGfIGjY!7F]M!R-4dt+od?tUfb`rFr1Dn[>uKTh$ni1]f"sJj?q,CWn?=HL;FXTW_O@PT;sKS@a3JiK`SSUP?ZmKb]N=]X.fd>#lL]1CnZaXG6QU*P)9PG"e)9db_'`te%i"(bKKHn_!`FUe;gCc_e7^@mgU$F:P5cRfhaZXpo2U(HoL(I?.dbe+52NlK^(<h+I!%CgV1b"860WblrDa+!N(;(4O%>3Uc"S.fU!/\@o+gds#W.oH_GUECDt#3eUUMMfWs%n;H,L(c+^;f@bEb!2&R-Mu:u`]Y,CukL3;1AK<3*fK>+P/2Ac"1ADI"cQn93KH)L?=k7`Cdnr?;AM`O=/_^Gb(gDqcGhG;c=HfUG(JBX-n9OSS?\lj:S_@!DZ.9ipTX8n],[`qkD9gkOi41+Q,2TQ`6<O=MS1=c2F4N4enU&kHu4+dl3Ok"INKichV0i6<KWTJV`-*2[8/0u>`TGnC#ko2l""CrNc.%fg9#W8"k1!:"[4c%cPCf`ce>RoS,g6.`LpZarl("`IJI++Kd\ca"C;!4$p:&?KnAf+\T6)$&n`TNrfMb%1##5%D(F34gi59pB$i^q51FKD9diq"W6mD]7oMTBi(,etr6o4J!haQmUHDd:]g@jkYH\>:Iq&e1[Uf_N/Oeb^C8/3@%`G+eAfO/i/7]/W)4r^PTSkU:_UgoNrJu_k"/>KY\8B`#DI,KDG!<Y&E0(i]HUS:9e';eW,[9.9=bloUk'+a'>h$U.$4%!J2"9-j2D!:18[a#5ZuPE_]FjI=##nH!.tFBgc+2<94c(__Xe.kPa^<#B"2d@0?F[0"_U():-9oLsQ)n*jRM$HB%pI+r3"GDmaEIlLQQ;+`"cUL%)j^29i9tF%R;oALN+@&]\2$Ljod\A<Cj[lW1#b.a^])iBH6O]X<W6UN8load>C?ZFhGH<M1E:=PQX'jV_&V](1Ki<niqO"f8S63H:K@KhkgNh0#t^bDQPb;2AL)Q^&X;>BEFbKK%/('(=EL':!/H5:-4K<Hg)I"`08kkL^c.I_R'8UE_1'.#3[e<":_\Pq-2Qqt&($HBLr`<NkZ&BU#T4fP0n2VFd$OV+T/#.?7t!FbPp![mG6j+&F/K)#]7:K$p*#Hm9SP.[$)S8ZV`k"D+1D)87QJJ2.OU<@pcSo;K8jLuLRS(rWq7D,Vp,*[K=[<&C#QMZT>iZ$H5@7.>IcMQ=$4as<7M-Wtuj$`AT$K<0Ai)5q:c^A9DjiI]MNP2&r759'o1;?*5XEIUghe6noD36g(]F,%Jk8UgOUq>jL(CT98IOTN8GV;'2>_qi9!DB?P;UaRIM@Cngh+0o5)TH;<hi+)D"S6[SE+pg1qDiVW9(Cd\MDOX!Yo$np//5Ta"#]a5(3TqK?$RG^g59N/5nf/*:40#<p0'tp\B3Bi"a/@18nbTXUi>i6B(tC7tj8eP9[al5%5HX[_5G$L(_?1is3UOr]kXs/Xo[\-\8Aa[D[hA^?iHRmS/$';Y"8so!m%2-9G_a&!/)Cb\q#1niM%cIY-Ms=/\[^rtJ^:6G`]q49b)/A%)>,dsq2[r>hrOn\nJg]0Vt!lq"ZFdK+gg'Oo[h07W!F;l#dQUS;Sk=GW'FIfe\iX7&L*Pj&i<5Ri5XGK\3QFs<Ku'E_^&O1L+F2JV[nM,&m@I:>[0uc=dYggFWTu"%`+R9m9^#i1qE!QB[?'p5N-DlP\(OMbp<9X9S=8s6WB9O?WF/?2rL'Q;rH[6jNY#)MK$?dl^bRLVe^BS6gs<+CV!g35M?,ZWb-Toq<:M?ht/;&a_Z@GPI5Rh5C+1b:0V9/Q6f58BpM.9OGXr%A4/7EYm:"h/.Y\/)du/+s4:,fYcT#B*bp2b)J!<Z^uZU@AJjai;gKrp+#7kcG#rSJPA7-:=8^KtP[ZYlpqh`V6g9?m9e9#:f:?Xe&IFWijiX=n>eS!%BgYR'b?kcQKbS@uoOQ3j^+h$3j=Cq7DnEP?J5Qg)Bmi9jKRt-QhTi?L9u208R8+:F<#DLcDP"m%4@<t&5BjjD/AID%2DG)k#$07`C?=s0pV!48KpUk\e5K4k6Lm<6%u?(ngXgLrbi\NJ>`BXOJ&Lhg]hqF)TtJ=W]:4i(5NZF'\3ehK*>/CDDc2)(Z8=*&k'O!.]Mu"]mHhm+P^ReS(*6+FQLg28bQA30NI7]@3hu\mo/^iGg(`';9boPk0ZePcV[3t7iZ#bCWaWYX\te]rh*]S3OCok^=5Wj;QG)u#;Gp4<I<[>l[aarX>&Xi)>=g&=.rrA:l&Rn[-##>@8HJO69iE$,"Y:^Rntd!!Sr+!`NU7c'gES'.h\+^R_u3\bjLijm/hM%b6VjJaptCjd_#/?sN67CnE:Q625X46~>endstream
 endobj
 xref
 0 17
 0000000000 65535 f 
-0000000061 00000 n 
+0000000015 00000 n 
+0000000054 00000 n 
 0000000113 00000 n 
-0000000220 00000 n 
-0000000332 00000 n 
-0000000511 00000 n 
-0000000691 00000 n 
-0000000877 00000 n 
-0000001075 00000 n 
-0000001278 00000 n 
-0000001467 00000 n 
-0000001583 00000 n 
-0000001779 00000 n 
-0000002040 00000 n 
-0000002110 00000 n 
-0000002414 00000 n 
-0000002475 00000 n 
+0000000162 00000 n 
+0000000419 00000 n 
+0000000607 00000 n 
+0000000802 00000 n 
+0000001009 00000 n 
+0000001225 00000 n 
+0000001452 00000 n 
+0000001660 00000 n 
+0000001892 00000 n 
+0000011086 00000 n 
+0000011141 00000 n 
+0000011249 00000 n 
+0000011362 00000 n 
 trailer
 <<
-/ID 
-[<128b71ce3cbd16080ed6542b982f94e0><128b71ce3cbd16080ed6542b982f94e0>]
-% ReportLab generated PDF document -- digest (opensource)
-
-/Info 14 0 R
-/Root 13 0 R
 /Size 17
+/Root 3 0 R
+/Info 1 0 R
 >>
 startxref
-5578
+11478
 %%EOF

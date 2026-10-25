@@ -116,9 +116,6 @@ async function loadLeetCodeActivity() {
       if (element && value !== undefined && value !== null) element.textContent = value;
     };
     update('#leetcode-solved', profile.totalSolved ?? data.totalSolved ?? '—');
-    update('#leetcode-easy', profile.easySolved ?? data.easySolved ?? '—');
-    update('#leetcode-medium', profile.mediumSolved ?? data.mediumSolved ?? '—');
-    update('#leetcode-hard', profile.hardSolved ?? data.hardSolved ?? '—');
     const end = new Date();
     end.setUTCHours(0, 0, 0, 0);
     const start = new Date(end);

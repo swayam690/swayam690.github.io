@@ -20,11 +20,12 @@
         <nav class="rail-nav">
           <a class="is-current" href="#home" data-rail aria-current="location"><span class="rail-number">01</span><span>Profile</span></a>
           <a href="#activity" data-rail><span class="rail-number">02</span><span>LeetCode</span></a>
-          <a href="#research" data-rail><span class="rail-number">03</span><span>Research</span></a>
-          <a href="#skills" data-rail><span class="rail-number">04</span><span>Skills</span></a>
-          <a href="#projects" data-rail><span class="rail-number">05</span><span>Work</span></a>
-          <a href="#experience" data-rail><span class="rail-number">06</span><span>Experience</span></a>
-          <a href="#contact" data-rail><span class="rail-number">07</span><span>Contact</span></a>
+          <a href="#credentials" data-rail><span class="rail-number">03</span><span>Credentials</span></a>
+          <a href="#research" data-rail><span class="rail-number">04</span><span>Research</span></a>
+          <a href="#skills" data-rail><span class="rail-number">05</span><span>Skills</span></a>
+          <a href="#projects" data-rail><span class="rail-number">06</span><span>Work</span></a>
+          <a href="#experience" data-rail><span class="rail-number">07</span><span>Experience</span></a>
+          <a href="#contact" data-rail><span class="rail-number">08</span><span>Contact</span></a>
         </nav>
         <div class="rail-state"><span class="rail-state-label">YOU ARE HERE</span><strong id="rail-current">01 / PROFILE</strong><span class="rail-state-label rail-next-label">UP NEXT</span><a id="rail-next" href="#activity">LEETCODE ACTIVITY ↘</a></div>
       </aside>
@@ -42,17 +43,41 @@
           </div>
         </section>
 
-        <section class="content-section activity-section" id="activity" data-chapter="02" data-label="LEETCODE" data-next="FEATURED RESEARCH" data-next-href="#research">
+        <section class="content-section activity-section" id="activity" data-chapter="02" data-label="LEETCODE" data-next="CREDENTIALS" data-next-href="#credentials">
           <div class="section-inner reveal">
             <div class="section-heading"><span class="section-number">02</span><h2>LeetCode activity</h2></div>
             <div class="activity-head"><p class="activity-caption">SUBMISSIONS OVER THE LAST 365 DAYS <span id="leetcode-range">—</span></p><a class="profile-link" href="https://leetcode.com/u/bfcCpyaabO/" target="_blank" rel="noopener noreferrer">@bfcCpyaabO ↗</a></div>
             <div class="leetcode-calendar"><div class="calendar-months" id="calendar-months" aria-hidden="true"></div><div class="calendar-grid is-loading" id="calendar" role="img" aria-busy="true" aria-label="Loading LeetCode submissions during the last 365 days"></div><div class="calendar-legend"><span>LESS</span><i></i><i></i><i></i><i></i><i></i><span>MORE</span></div></div>
-            <div class="leetcode-summary" aria-busy="true"><div class="leetcode-stat"><strong id="leetcode-solved"></strong><span>PROBLEMS SOLVED</span></div><div class="leetcode-stat"><strong id="leetcode-easy"></strong><span>EASY</span></div><div class="leetcode-stat"><strong id="leetcode-medium"></strong><span>MEDIUM</span></div><div class="leetcode-stat"><strong id="leetcode-hard"></strong><span>HARD</span></div><div class="leetcode-stat"><strong id="leetcode-submissions-year"></strong><span>SUBMISSIONS / YEAR</span></div></div>
+            <div class="leetcode-summary" aria-busy="true"><div class="leetcode-stat"><strong id="leetcode-solved"></strong><span>PROBLEMS SOLVED</span></div><div class="leetcode-stat"><strong id="leetcode-submissions-year"></strong><span>SUBMISSIONS / YEAR</span></div></div>
             <div class="activity-bottom"><span id="leetcode-status" role="status" aria-live="polite">Loading LeetCode activity…</span><a href="https://leetcode.com/u/bfcCpyaabO/" target="_blank" rel="noopener noreferrer">Open full profile ↗</a></div>
           </div>
         </section>
 
-        <section class="research-section" id="research" data-chapter="03" data-label="RESEARCH" data-next="TECHNICAL SKILLS" data-next-href="#skills">
+        <section class="content-section credentials-section" id="credentials" data-chapter="03" data-label="CREDENTIALS" data-next="FEATURED RESEARCH" data-next-href="#research">
+          <div class="section-inner reveal">
+            <div class="section-heading"><span class="section-number">03</span><h2>Credentials &amp; recognition</h2><p>Certificates and conference presentation.</p></div>
+            <div class="credentials-grid">
+              <article class="credential-card">
+                <a class="credential-image" href="assets/credentials/icdmis-2025-presentation.webp" target="_blank" rel="noopener noreferrer"><img src="assets/credentials/icdmis-2025-presentation.webp" alt="ICDMIS 2025 certificate of presentation" loading="lazy" /></a>
+                <div class="credential-copy"><p class="credential-type">RESEARCH PRESENTATION · OCT 2025</p><h3>ICDMIS 2025</h3><p>Presented the co-authored VGG16 deepfake paper at the 2nd International Conference on Data Mining and Information Security.</p><a class="credential-link" href="assets/credentials/icdmis-2025-presentation.webp" target="_blank" rel="noopener noreferrer">Open certificate ↗</a></div>
+              </article>
+              <article class="credential-card">
+                <a class="credential-image" href="assets/credentials/ifso-ncfl-internship.webp" target="_blank" rel="noopener noreferrer"><img src="assets/credentials/ifso-ncfl-internship.webp" alt="Delhi Police IFSO/NCFL internship certificate" loading="lazy" /></a>
+                <div class="credential-copy"><p class="credential-type">INTERNSHIP · AUG 2025</p><h3>IFSO / NCFL, Delhi Police</h3><p>Completed a one-month internship at the National Cyber Forensics Laboratory in New Delhi.</p><a class="credential-link" href="assets/credentials/ifso-ncfl-internship.webp" target="_blank" rel="noopener noreferrer">Open certificate ↗</a></div>
+              </article>
+              <article class="credential-card">
+                <a class="credential-image" href="assets/credentials/codec-ai-internship.pdf" target="_blank" rel="noopener noreferrer"><img src="assets/credentials/codec-ai-internship-preview.webp" alt="Codec Technologies AI internship certificate" loading="lazy" /></a>
+                <div class="credential-copy"><p class="credential-type">AI INTERNSHIP · JUL 2026</p><h3>Codec Technologies</h3><p>Completed a four-week AICTE and ICAC-approved training program.</p><a class="credential-link" href="assets/credentials/codec-ai-internship.pdf" target="_blank" rel="noopener noreferrer">Open certificate ↗</a></div>
+              </article>
+              <article class="credential-card">
+                <a class="credential-image" href="assets/credentials/uipath-ai-computer-vision.pdf" target="_blank" rel="noopener noreferrer"><img src="assets/credentials/uipath-ai-computer-vision-preview.webp" alt="UiPath AI Computer Vision with Studio course certificate" loading="lazy" /></a>
+                <div class="credential-copy"><p class="credential-type">COURSE COMPLETION · NOV 2025</p><h3>AI Computer Vision with Studio</h3><p>Completed the UiPath course for AI Computer Vision with Studio, version 2024.10.</p><a class="credential-link" href="assets/credentials/uipath-ai-computer-vision.pdf" target="_blank" rel="noopener noreferrer">Open certificate ↗</a></div>
+              </article>
+            </div>
+          </div>
+        </section>
+
+        <section class="research-section" id="research" data-chapter="04" data-label="RESEARCH" data-next="TECHNICAL SKILLS" data-next-href="#skills">
           <div class="research-layout reveal">
             <div class="research-copy">
               <p class="research-kicker">FEATURED CONFERENCE PAPER <span>·</span> ICDMIS 2025 <span>·</span> PUBLISHED 2026</p>
@@ -69,9 +94,9 @@
           </article>
         </section>
 
-        <section class="content-section" id="skills" data-chapter="04" data-label="SKILLS" data-next="SELECTED PROJECTS" data-next-href="#projects">
+        <section class="content-section" id="skills" data-chapter="05" data-label="SKILLS" data-next="SELECTED PROJECTS" data-next-href="#projects">
           <div class="section-inner reveal">
-            <div class="section-heading"><span class="section-number">04</span><h2>Technical skills</h2><p>Tools I use across backend, data, and applied AI projects.</p></div>
+            <div class="section-heading"><span class="section-number">05</span><h2>Technical skills</h2><p>Tools I use across backend, data, and applied AI projects.</p></div>
             <div class="skills-grid">
               <article class="skill-row"><span class="skill-number">01</span><div><h3>Backend &amp; APIs</h3><p>Python · FastAPI · REST APIs · WebSockets · JWT authentication · asynchronous services</p></div></article>
               <article class="skill-row"><span class="skill-number">02</span><div><h3>Data &amp; retrieval</h3><p>PostgreSQL · MySQL · Redis · FAISS · vector embeddings · semantic search</p></div></article>
@@ -83,9 +108,9 @@
           </div>
         </section>
 
-        <section class="content-section" id="projects" data-chapter="05" data-label="WORK" data-next="EXPERIENCE & EDUCATION" data-next-href="#experience">
+        <section class="content-section" id="projects" data-chapter="06" data-label="WORK" data-next="EXPERIENCE & EDUCATION" data-next-href="#experience">
           <div class="section-inner reveal">
-            <div class="section-heading"><span class="section-number">05</span><h2>Selected work</h2><p>Applied AI, computer vision, and backend systems.</p></div>
+            <div class="section-heading"><span class="section-number">06</span><h2>Selected work</h2><p>Applied AI, computer vision, and backend systems.</p></div>
             <div class="project-list">
               <article class="project-row"><div class="project-index">01 <span>LLM APPLICATION</span></div><div class="project-content"><div class="project-title"><h3>Enterprise Chat Assistant</h3><span>JUL 2026</span></div><p>Built a full-stack customer-service chatbot with a FastAPI backend and React interface. Added WebSocket chat, Redis-backed session state and caching, and pub/sub signals for live-agent escalation.</p><div class="tag-list"><span>FastAPI</span><span>Redis</span><span>WebSockets</span><span>React</span></div><div class="project-links"><a class="project-source" href="https://github.com/swayam690/redisbasedchatbot" target="_blank" rel="noopener noreferrer">View source on GitHub ↗</a></div></div></article>
               <article class="project-row"><div class="project-index">02 <span>AI MARKETING</span></div><div class="project-content"><div class="project-title"><h3>FormatLab AI Marketing Engine</h3><span>JAN 2026</span></div><p>Prototyped an AI marketing workflow for solo founders, with a Next.js and TypeScript interface, a Python and FFmpeg video-processing core, and Gemini multimodal analysis. Includes multi-platform content adaptation and experimentation views.</p><div class="tag-list"><span>Next.js</span><span>TypeScript</span><span>Python</span><span>FFmpeg</span><span>Gemini</span></div><div class="project-links"><a class="project-source" href="https://github.com/swayam690/formatlab-ai-marketing" target="_blank" rel="noopener noreferrer">View source on GitHub ↗</a></div></div></article>
@@ -95,9 +120,9 @@
           </div>
         </section>
 
-        <section class="content-section" id="experience" data-chapter="06" data-label="EXPERIENCE" data-next="CONTACT" data-next-href="#contact">
+        <section class="content-section" id="experience" data-chapter="07" data-label="EXPERIENCE" data-next="CONTACT" data-next-href="#contact">
           <div class="section-inner reveal">
-            <div class="section-heading"><span class="section-number">06</span><h2>Experience & education</h2><p>Work, study, and training.</p></div>
+            <div class="section-heading"><span class="section-number">07</span><h2>Experience & education</h2><p>Work, study, and training.</p></div>
             <div class="experience-list">
               <article class="experience-row"><div class="experience-date">JUL 2026</div><div><h3>AI/ML Training Program</h3><p class="experience-org">Codec Technologies</p><p>Completed a four-week program covering machine learning, neural networks, CNNs, NLP, and reinforcement learning. Built an LLM chatbot using prompt engineering and retrieval workflows.</p></div></article>
               <article class="experience-row"><div class="experience-date">AUG 2025</div><div><h3>Python Developer Intern</h3><p class="experience-org">IFSO, Delhi Police — National Cyber Forensics Laboratory <span>·</span> New Delhi</p><ul><li>Developed a Python GUI tool to automate repetitive code-generation workflows and improve developer productivity.</li><li>Implemented event-driven execution and real-time script monitoring for debugging and visualization.</li></ul></div></article>
@@ -106,10 +131,10 @@
           </div>
         </section>
 
-        <section class="content-section contact-section" id="contact" data-chapter="07" data-label="CONTACT" data-next="BACK TO PROFILE" data-next-href="#home">
+        <section class="content-section contact-section" id="contact" data-chapter="08" data-label="CONTACT" data-next="BACK TO PROFILE" data-next-href="#home">
           <div class="section-inner reveal">
-            <div class="section-heading"><span class="section-number">07</span><h2>Contact</h2><p>Seeking backend engineering and applied AI internships. Graduating May 2027.</p></div>
-            <div class="contact-layout"><div><span class="contact-label">EMAIL</span><a href="mailto:swayam10138@gmail.com">swayam10138@gmail.com ↗</a></div><div><span class="contact-label">PHONE</span><a href="tel:+919667340405">+91 96673 40405 ↗</a></div><div><span class="contact-label">GITHUB</span><a href="https://github.com/swayam690" target="_blank" rel="noopener noreferrer">github.com/swayam690 ↗</a></div><div><span class="contact-label">LEETCODE</span><a href="https://leetcode.com/u/bfcCpyaabO/" target="_blank" rel="noopener noreferrer">@bfcCpyaabO ↗</a></div><div><span class="contact-label">RESUME</span><a href="resume.pdf" download>Download PDF ↓</a></div></div>
+            <div class="section-heading"><span class="section-number">08</span><h2>Contact</h2><p>Seeking backend engineering and applied AI internships. Graduating May 2027.</p></div>
+            <div class="contact-layout"><div><span class="contact-label">EMAIL</span><a href="mailto:swayam10138@gmail.com">swayam10138@gmail.com ↗</a></div><div><span class="contact-label">GITHUB</span><a href="https://github.com/swayam690" target="_blank" rel="noopener noreferrer">github.com/swayam690 ↗</a></div><div><span class="contact-label">LEETCODE</span><a href="https://leetcode.com/u/bfcCpyaabO/" target="_blank" rel="noopener noreferrer">@bfcCpyaabO ↗</a></div><div><span class="contact-label">RESUME</span><a href="resume.pdf" download>Download PDF ↓</a></div></div>
             <footer><span>© 2026 SWAYAM GANDHI</span><a href="#home">BACK TO TOP ↑</a><span>NEW DELHI, INDIA</span></footer>
           </div>
         </section>
