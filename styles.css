@@ -313,3 +313,9 @@ html.motion-ready .reveal.is-visible { opacity: 1; transform: translateY(0); }
   .calendar-grid i[data-level="4"] { animation: none !important; }
   .calendar-grid.is-loading::after,.leetcode-stat strong:empty { animation: none; }
 }
+
+/* Keep certificate previews inside their cards while preserving each document's aspect ratio. */
+.credentials-grid { min-width: 0; }
+.credential-card,.credential-image { min-width: 0; max-width: 100%; }
+.credential-image { display: flex; justify-content: center; width: 100%; overflow: hidden; }
+.credential-image img { width: auto; max-width: 100%; height: auto; max-height: 166px; }
